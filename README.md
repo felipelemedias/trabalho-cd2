@@ -27,8 +27,9 @@ Siga os passos abaixo para configurar o ambiente e rodar o notebook na sua máqu
 
 ### 1. Clonar o repositório
 
-    git clone https://github.com/SEU_USUARIO/projeto-ciencia-dados-2.git
-    cd projeto-ciencia-dados-2
+    git clone https://github.com/felipelemedias/trabalho-cd2
+    cd trabalho-cd2
+    code .
 
 ### 2. Criar e ativar um ambiente virtual
 
