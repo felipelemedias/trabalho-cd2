@@ -2,6 +2,8 @@
 
 Este repositório contém o projeto desenvolvido para a disciplina de Ciência de Dados II. O objetivo principal é realizar o processamento, análise exploratória e aplicação de técnicas de aprendizado de máquina na base de dados do Vigitel 2024.
 
+[![Vídeo de demonstração](https://img.youtube.com/vi/TGhim9U_JBM?si=EV08coAmh_PHeSbH/0.jpg)](https://youtu.be/TGhim9U_JBM?si=EV08coAmh_PHeSbH)
+
 ## 📂 Estrutura do Repositório
 
 * **data/**: Diretório com os dados brutos e documentação.
